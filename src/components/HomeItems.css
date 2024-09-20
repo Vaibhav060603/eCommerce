@@ -1,0 +1,49 @@
+#main_content
+{
+    width: 100%;
+}
+
+.item-container {
+    width: 250px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.item-image {
+    width: 100%;
+}
+
+.rating {
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.price {
+    margin-top: 10px;
+    font-size: 14px;
+    line-height: 15px;
+    color: #282c3f;
+    white-space: nowrap;
+}
+
+.discount {
+    color: #ff905a;
+    font-weight: 400;
+    font-size: 12px;
+    margin-left: 5px;
+}
+.btn-add-bag {
+    margin-top: 8px;
+    font-size: 18px;
+    width: 100%;
+    background-color: rgb(255, 178, 252);
+    border: none;
+    padding: 5px 15px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.btn-add-bag:hover
+{
+    background-color: rgb(255, 194, 254);
+}

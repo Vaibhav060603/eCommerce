@@ -1,0 +1,28 @@
+#id-whole-bag
+{
+  min-height: 20rem;
+  padding: 2rem;
+  padding-right: 13rem;
+  padding-left: 13rem;
+}
+
+.bag-items-container
+{
+  min-width: 30rem;
+  max-width: 40rem;
+  display: inline-block;
+  align-self: left;
+  margin-left: 0px;
+}
+
+.bag-summary-container {
+  padding-right: 10px;
+  padding-left: 10px;
+  width: 24rem;
+  display: inline-block;
+  position: absolute;
+  margin-left: 7rem;
+}
+
+
+
